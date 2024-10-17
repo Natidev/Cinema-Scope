@@ -7,7 +7,8 @@ This is a web application for browsing and managing movies. The application is b
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Folder Structure](#folder-structure) 
+- [Folder Structure](#folder-structure)
+- [Deployment](#deployment)
 
 ## Installation
 
@@ -39,3 +40,8 @@ This is a web application for browsing and managing movies. The application is b
 - **Dark Mode**: Toggle between light and dark themes.
 - **Responsive Design**: Optimized for both desktop and mobile devices.
 
+## Deployment
+
+You can access the deployed application at the following link:
+
+[Cinema Scope](https://cinema-scope-two.vercel.app/) 
