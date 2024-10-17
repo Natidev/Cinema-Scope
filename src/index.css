@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("./assets/fonts/Montserrat-VariableFont_wght.woff2");
+}
+:root {
+  --body_background: #101010;
+  --body_color: #fff;
+  --heading_color: #ffe400;
+}
+[data-theme="light"] {
+  --body_background: #fff;
+  --body_color: #000;
+  --heading_color: #000;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  transition: all 0.2s ease-in-out;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: Montserrat, sans-serif;
+}
+
+.align_center {
+  display: flex;
+  align-items: center;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #101010;
+  border-radius: 0;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #555555;
+}
+::-webkit-scrollbar-track {
+  background-color: #f1f5f9;
+}
