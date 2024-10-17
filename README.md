@@ -7,9 +7,7 @@ This is a web application for browsing and managing movies. The application is b
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
+- [Folder Structure](#folder-structure) 
 
 ## Installation
 
@@ -40,3 +38,4 @@ This is a web application for browsing and managing movies. The application is b
 - **Movie Search**: Search for movies and view details.
 - **Dark Mode**: Toggle between light and dark themes.
 - **Responsive Design**: Optimized for both desktop and mobile devices.
+
